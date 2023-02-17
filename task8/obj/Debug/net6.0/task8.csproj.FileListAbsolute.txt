@@ -1,0 +1,15 @@
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.csproj.AssemblyReference.cache
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\bin\Debug\net6.0\task8.exe
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\bin\Debug\net6.0\task8.deps.json
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\bin\Debug\net6.0\task8.runtimeconfig.json
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\bin\Debug\net6.0\task8.dll
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\bin\Debug\net6.0\task8.pdb
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.dll
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\refint\task8.dll
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.pdb
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\task8.genruntimeconfig.cache
+C:\Users\Natalia\Desktop\Наталья Учеба\ExampleCSharp\task8\obj\Debug\net6.0\ref\task8.dll
